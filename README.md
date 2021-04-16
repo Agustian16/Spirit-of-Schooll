@@ -7,4 +7,13 @@ Step to Use this Application
 5. php artisan migrate
 6. php artisan db:seed --class=UserSeeder
 7. php artisan serve
-8. foalah........success
+8. Login Account
+  *Admin 
+     username = admin
+     password = 145616
+     
+  *Petugas
+     username = petugas
+     password = 145616
+     
+10. foalah........success
